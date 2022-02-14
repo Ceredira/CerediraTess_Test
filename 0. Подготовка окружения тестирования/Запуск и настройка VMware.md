@@ -2,7 +2,7 @@
 
 1. Запустить ярлык "VMware Workstation Pro"
 
-2. На шаге "Welcome to the VMware" обратиться в телеграм-чат для получения ключа продукта и вставить его в поле "I have a licanse key.." нажать на кнопку <kbd>Continue</kbd>
+2. На шаге "Welcome to the VMware" обратиться в телеграм-чат для получения ключа продукта и вставить его в поле "I have a license key.." нажать на кнопку <kbd>Continue</kbd>
 
 3. На шаге "Thank you for buying" нажать кнопку <kbd>Finish</kbd>
 
