@@ -52,6 +52,10 @@
 
 11. Далее ввести команду git config --global credential.helper manager-core затем нажать <kbd>Enter</kbd>
 
-12. Сгенерировать по [ссылке](https://github.com/settings/tokens) персональный токен, название произвольное,  параметр 'Expiration' в выпадающем меню выставить 'No Expiration', отметить чекбокс 'repo', нажать кнопку <kbd>Generate Token</kbd>, скопировать ID токена. (ВАЖНО: создайте фаил с вашим токен id после копирования, так как потом его не удастся воспроизвести если потребуется)
+12. Нажать на кнопку Push
+13. В появившемся окне Connect to GitHub нажать на кнопку Sign in with your browser
+14. Браузер открылся на странице https://github.com/login?client_id=
+15. В поле Username or email address ввести имя пользователя
+16. В поле Password ввести пароль пользователя
+17. Нажать на кнопку Sign In
 
-13. В окне 'Conncet to github' выбрать пункт 'token' и вставить скопированный id  в поле для токена, нажать <kbd>Sign In</kbd>
