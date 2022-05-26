@@ -3,9 +3,11 @@
 1. Распаковать релиз
     1. Перейти по ссылке https://github.com/Ceredira/CerediraTess/releases
     1. Скачать с Pre-release архив (например CerediraTess-v0.6.0.zip)
-    1. Создать каталоги "bin -> CerediraTess"
+    1. Создать каталог "bin"
+    1. Создать каталог "CerediraTess" внутри каталога "bin"
     1. Распаковать туда все содержимое архива
-    1. Создать каталоги "data -> CerediraTess"
+    1. Создать каталог "data"
+    1. Создать каталог "CerediraTess" внутри каталога "data"
     1. Распаковать туда 3 каталога из архива
     (resources, scripts, www)
 
@@ -21,7 +23,7 @@
 
         "bin\CerediraTess\CerediraTess.exe"
 ```
-_где, "bin\CerediraTess\CerediraTess.exe" - это относительный путь к исполняемому файлу. Его можно получить перейдя в "bin -> CareDiraTess" (куда мы выше скопировали файлы из архива) и найти там файл CerediraTess.exe._
+_где, "bin\CerediraTess\CerediraTess.exe" - это относительный путь к исполняемому файлу. Его можно получить перейдя в "bin\CareDiraTess" (куда мы выше скопировали файлы из архива) и найти там файл CerediraTess.exe._
 
 1. Запустить CerediraTess.bat
 
