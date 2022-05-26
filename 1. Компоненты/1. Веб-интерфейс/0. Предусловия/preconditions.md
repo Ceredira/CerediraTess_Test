@@ -21,7 +21,7 @@
 
         "bin\CerediraTess\CerediraTess.exe"
 ```
-где, "bin\CerediraTess\CerediraTess.exe" - это относительный путь к исполняемому файлу. Его можно получить перейдя в "bin -> CareDiraTess" (куда мы выше скопировали файлы из архива) и найти там файл CerediraTess.exe.
+_где, "bin\CerediraTess\CerediraTess.exe" - это относительный путь к исполняемому файлу. Его можно получить перейдя в "bin -> CareDiraTess" (куда мы выше скопировали файлы из архива) и найти там файл CerediraTess.exe._
 
 1. Запустить CerediraTess.bat
 
